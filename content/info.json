@@ -1,11 +1,13 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entregamos para todo o Brasil"
+    "text": "",
+    "title": "Shipping by International mail DAP (Delivery At Place)"
   },
   "installments": {
     "show": true,
-    "text": "Parcele sem juros"
+    "text": "",
+    "title": "Pay for your purchases by credit card"
   },
   "exchange": {
     "show": true,
