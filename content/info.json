@@ -1,20 +1,20 @@
 {
   "shipping": {
     "show": true,
-    "text": "",
+    "text": "For CIF, CIP by sea or by air, please ask for a quotation.",
     "title": "Shipping by International mail DAP (Delivery At Place)"
   },
   "installments": {
     "show": true,
-    "text": "",
+    "text": "We do accept Paypal or Wire Transfer.",
     "title": "Pay for your purchases by credit card"
   },
   "exchange": {
-    "show": true,
+    "show": false,
     "text": "Não gostou? A primeira troca é gratuita"
   },
   "promo": {
-    "show": true,
+    "show": false,
     "text": "Diferentes promoções ao longo do ano!"
   }
 }
