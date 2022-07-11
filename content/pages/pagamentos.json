@@ -1,6 +1,16 @@
 {
-  "title": "Formas de pagamento",
-  "meta_title": "Formas de pagamento",
-  "meta_description": "Formas de pagamento",
-  "body": "### Lorem ipsum dolor sit amet"
+  "title": "Payment Methods",
+  "meta_title": "Payment Methods",
+  "meta_description": "Payment Methods",
+  "body": "Pay for your purchases by credit card\n\nWe do accept Paypal or Wire Transfer.",
+  "sections": [
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
+    }
+  ]
 }
