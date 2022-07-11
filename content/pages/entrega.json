@@ -1,6 +1,16 @@
 {
   "title": "Delivery",
-  "meta_title": "Condições de entrega",
-  "meta_description": "Condições de entrega",
-  "body": "### Lorem ipsum dolor sit amet"
+  "meta_title": "Delivery",
+  "meta_description": "Delivery",
+  "body": "Shipping by International mail DAP (Delivery At Place)\n\nFor CIF, CIP by sea or by air, please ask for a quotation.",
+  "sections": [
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
+    }
+  ]
 }
