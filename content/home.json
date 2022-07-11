@@ -3,6 +3,19 @@
   "meta_description": "",
   "sections": [
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "2022-07-11T18:38:15.033Z",
+          "end": "",
+          "img": "/img/uploads/slide-minascristais_drusa-ametista.jpg",
+          "mobile_img": "/img/uploads/slide-minascristais_drusa-ametistamobil.jpg"
+        }
+      ]
+    },
+    {
       "type": "page-title",
       "title": "Loja demo da E-Com Plus",
       "description": "Loja de demonstração e testes da plataforma E-Com Plus e Storefront. Todos os produtos, preços e informações são meramente ilustrativos."
