@@ -21,14 +21,15 @@
       "description": "Shop Now"
     },
     {
-      "type": "collection-shelf",
+      "page": 1,
+      "title": "The best prices with quality you can find in Minas Cristais",
       "shuffle": true,
-      "collection_id": null,
-      "sort": "offers",
-      "title": "",
       "headless": false,
+      "type": "collection-shelf",
+      "link": "https://usminascristais.netlify.app/stones",
       "limit": 12,
-      "page": 1
+      "collection_id": null,
+      "sort": "news"
     },
     {
       "type": "info-bar",
