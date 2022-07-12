@@ -3,6 +3,10 @@
     {
       "type": "search-engine",
       "enabled": true
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
     }
   ]
 }
