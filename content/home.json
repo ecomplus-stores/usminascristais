@@ -16,6 +16,27 @@
       ]
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/jewelry.jpg",
+          "link": "https://usminascristais.netlify.app/jewelry"
+        },
+        {
+          "img": "/img/uploads/home-decor.jpg",
+          "link": "https://usminascristais.netlify.app/home-decor"
+        },
+        {
+          "img": "/img/uploads/minerals.jpg",
+          "link": "https://usminascristais.netlify.app/minerals"
+        },
+        {
+          "img": "/img/uploads/exclsuive-minerals.jpg",
+          "link": "https://usminascristais.netlify.app/exclusive"
+        }
+      ]
+    },
+    {
       "type": "page-title",
       "title": "Exclusive Stone Lots - Brazilian Stones and Various Crystals",
       "description": "Shop Now"
@@ -30,6 +51,30 @@
       "limit": 12,
       "collection_id": null,
       "sort": "news"
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "2022-07-12T12:50:13.670Z",
+          "end": "2022-07-12T12:50:13.691Z",
+          "img": "/img/uploads/slide-minascristais-minerals-crystas.jpg",
+          "mobile_img": "/img/uploads/slide-minascristais-minerals-crystas-mobile.jpg",
+          "link": "https://usminascristais.netlify.app/minerals"
+        }
+      ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "62cca070eb8591121682a06b:categories:Jewelry:/jewelry",
+      "sort": "news",
+      "title": "Accessories in hand-cut stones, handmade finish, high quality plating made in Brazil",
+      "link": "https://usminascristais.netlify.app/jewelry"
     },
     {
       "type": "info-bar",
