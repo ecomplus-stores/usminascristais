@@ -2,7 +2,7 @@
   "title": "Payment Methods",
   "meta_title": "Payment Methods",
   "meta_description": "Payment Methods",
-  "body": "Pay for your purchases by credit card\n\nWe do accept Paypal or Wire Transfer.",
+  "body": "<!--StartFragment-->\n\nPay for your purchases by credit card\n\nWe do accept Paypal, Wire Transfer or Zelle.\n\n\n\n<!--EndFragment-->",
   "sections": [
     {
       "type": "extra-page",
