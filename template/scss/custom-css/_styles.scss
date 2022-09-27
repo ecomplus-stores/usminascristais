@@ -1,1 +1,7 @@
 // Add your custom CSS here.
+.summary__buyer p > br + small {
+    display: none;
+}
+.shipping-calculator__option small {
+    max-width: 30% !important;
+}
