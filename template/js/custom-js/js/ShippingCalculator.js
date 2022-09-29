@@ -306,13 +306,13 @@ import {
   
     created () {
       if (!this.zipCode && localStorage) {
-        function getLocation() {
-            if (navigator.geolocation /* && !localStorage.getItem('ISO') */) {
+        /* function getLocation() {
+            if (navigator.geolocation && !localStorage.getItem('ISO') ) {
                 navigator.geolocation.getCurrentPosition(getIsoPosition);
             }
-        }
+        } */
      
-        getLocation();
+        /* getLocation();
         
         function getIsoPosition(position) {
             var url = "http://nominatim.openstreetmap.org/reverse?lat="+position.coords.latitude+"&lon="+position.coords.longitude+"&format=json";
@@ -326,10 +326,10 @@ import {
                 console.log(response.address['ISO3166-2-lvl4'])
              });
          }
-        const storedZip = localStorage.getItem(zipStorageKey)
-        if (storedZip) {
+        const storedZip = localStorage.getItem(zipStorageKey) */
+        /* if (storedZip) {
           this.localZipCode = storedZip
-        }
+        } */
       }
     }
   }
