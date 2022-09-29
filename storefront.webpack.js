@@ -10,9 +10,9 @@ module.exports = () => ({
       './html/InputZipCode.html': path.resolve(__dirname, 'template/js/custom-js/html/InputZipCode.html'),
       './html/AccountForm.html': path.resolve(__dirname, 'template/js/custom-js/html/AccountForm.html'),
       './js/AccountForm.js': path.resolve(__dirname, 'template/js/custom-js/js/AccountForm.js'),
-      './js/PaymentMethods.js': path.resolve(__dirname, 'template/js/custom-js/js/PaymentMethods.js'),
       './html/LoginBlock.html': path.resolve(__dirname, 'template/js/custom-js/html/LoginBlock.html'),
       './js/LoginBlock.js': path.resolve(__dirname, 'template/js/custom-js/js/LoginBlock.js'),
+      './js/EcCheckout.js': path.resolve(__dirname, 'template/js/custom-js/js/EcCheckout.js')
 
     }
   }
