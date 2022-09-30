@@ -49,6 +49,9 @@
     {
       "src": "/img/uploads/ssl-safe.png",
       "alt": "Secure connection"
+    },
+    {
+      "src": "/img/uploads/zelle.jpeg"
     }
   ],
   "payment_methods": {
