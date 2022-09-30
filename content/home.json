@@ -11,7 +11,8 @@
           "start": "2022-07-11T18:38:15.033Z",
           "end": "",
           "img": "/img/uploads/slide-minascristais_drusa-ametista.jpg",
-          "mobile_img": "/img/uploads/slide-minascristais_drusa-ametistamobil.jpg"
+          "mobile_img": "/img/uploads/slide-minascristais_drusa-ametistamobil.jpg",
+          "link": "https://minascristais.com/our-products"
         }
       ]
     },
@@ -19,20 +20,12 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/jewelry.jpg",
-          "link": "https://usminascristais.netlify.app/jewelry"
-        },
-        {
-          "img": "/img/uploads/home-decor.jpg",
-          "link": "https://usminascristais.netlify.app/home-decor"
-        },
-        {
           "img": "/img/uploads/minerals.jpg",
-          "link": "https://usminascristais.netlify.app/minerals"
+          "link": "https://minascristais.com/minerals"
         },
         {
           "img": "/img/uploads/exclsuive-minerals.jpg",
-          "link": "https://usminascristais.netlify.app/exclusive"
+          "link": "https://minascristais.com/kits"
         }
       ]
     },
