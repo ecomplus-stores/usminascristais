@@ -35,6 +35,11 @@
       "description": "Shop Now"
     },
     {
+      "type": "dynamic-showcase",
+      "load_more": false,
+      "sort": "news"
+    },
+    {
       "page": 1,
       "title": "Minas Cristais has the best prices and quality!",
       "shuffle": true,
@@ -68,6 +73,16 @@
       "sort": "news",
       "title": "Towers & Obelisks - Minas Cristais has the best prices and quality!",
       "link": "https://minascristais.com/towers-obelisks"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "633743cc73321213f8961c2a:categories:Kits:/kits",
+      "sort": "news",
+      "link": "https://minascristais.com/kits",
+      "title": "Kits - buy now"
     },
     {
       "type": "info-bar",
