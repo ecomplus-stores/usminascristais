@@ -20,12 +20,16 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/minerals.jpg",
-          "link": "https://minascristais.com/minerals"
+          "img": "/img/uploads/banner-our-products.jpg",
+          "link": "https://minascristais.com/our-products"
         },
         {
-          "img": "/img/uploads/banners-show.jpg",
+          "img": "/img/uploads/banner-kits.jpg",
           "link": "https://minascristais.com/kits"
+        },
+        {
+          "img": "/img/uploads/banners-towers-obelisks.jpg",
+          "link": "https://minascristais.com/towers-obelisks"
         }
       ]
     },
