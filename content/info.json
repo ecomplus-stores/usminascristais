@@ -6,8 +6,8 @@
   },
   "installments": {
     "show": true,
-    "text": "We do accept Paypal or Wire Transfer.",
-    "title": "Pay for your purchases by credit card"
+    "text": "We do accept Paypal, Wire Transfer or Zelle.",
+    "title": "PayPal coming soon"
   },
   "exchange": {
     "show": false,
