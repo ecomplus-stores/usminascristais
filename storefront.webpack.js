@@ -12,6 +12,7 @@ module.exports = () => ({
       './js/AccountForm.js': path.resolve(__dirname, 'template/js/custom-js/js/AccountForm.js'),
       './html/LoginBlock.html': path.resolve(__dirname, 'template/js/custom-js/html/LoginBlock.html'),
       './js/LoginBlock.js': path.resolve(__dirname, 'template/js/custom-js/js/LoginBlock.js'),
+      './js/PaymentMethods.js': path.resolve(__dirname, 'template/js/custom-js/js/PaymentMethods.js'),
       './js/EcCheckout.js': path.resolve(__dirname, 'template/js/custom-js/js/EcCheckout.js')
 
     }
