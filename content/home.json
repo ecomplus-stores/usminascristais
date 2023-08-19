@@ -3,18 +3,8 @@
   "meta_description": "",
   "sections": [
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "2022-07-11T18:38:15.033Z",
-          "end": "",
-          "img": "/img/uploads/slide-minascristais_drusa-ametista.jpg",
-          "mobile_img": "/img/uploads/slide-minascristais_drusa-ametistamobil.jpg",
-          "link": "https://wa.me/553131765634"
-        }
-      ]
+      "type": "responsive-banner",
+      "img": "/img/uploads/slide-minascristais_drusa-ametista.jpg"
     },
     {
       "type": "banners-grid",
