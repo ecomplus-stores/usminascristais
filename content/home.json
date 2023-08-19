@@ -29,20 +29,6 @@
       "description": "Shop Now"
     },
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "2022-07-12T12:50:13.670Z",
-          "end": "",
-          "img": "/img/uploads/slide-minascristais-minerals-crystas.jpg",
-          "mobile_img": "/img/uploads/slide-minascristais-minerals-crystas-mobile.jpg",
-          "link": "https://wa.me/553131765634"
-        }
-      ]
-    },
-    {
       "type": "info-bar",
       "enabled": true
     }
