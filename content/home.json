@@ -7,6 +7,17 @@
       "img": "/img/uploads/slide-minascristais_drusa-ametista.jpg"
     },
     {
+      "type": "page-title",
+      "title": "Denver Mineral, Fossil, Gem & Jewelry Show September 8 – 17, 2023 at the National Western Complex and Denver Coliseum",
+      "description": "Come visit us Natural and polished stones from Brazil"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/2023-denver-header-1.png",
+      "link": "https://www.instagram.com/minascristais_usa/",
+      "alt": "Denver Mineral, Fossil, Gem & Jewelry Show September 8 – 17, 2023"
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
